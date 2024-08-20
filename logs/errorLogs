@@ -1,0 +1,18 @@
+20240818	22:08:16	b99d9e80-15ad-4647-afff-b05eaa617c0a	Error	Not allowed by CORS!
+20240818	22:08:16	bd95d51f-ce33-4433-ba07-9118a2350b99	Error	Not allowed by CORS!
+20240819	00:08:04	e7f5e1db-734c-4a0f-ad19-d837f84eab48	TypeError	Converting circular structure to JSON
+    --> starting at object with constructor 'ServerResponse'
+    |     property 'req' -> object with constructor 'IncomingMessage'
+    --- property 'res' closes the circle
+20240819	15:08:46	fd70b909-8070-4083-a05d-581a44c35c4f	ReferenceError	setEmployees is not defined
+20240819	23:08:02	25b767ff-a336-4469-aade-51097099da6d	TypeError	Cannot read properties of undefined (reading 'username')
+20240819	23:08:23	2494c17d-12b3-44c4-b563-a25feb633834	TypeError	Cannot read properties of undefined (reading 'username')
+20240819	23:08:35	812c8558-580c-4909-b656-09fdf0b4c436	TypeError	Cannot read properties of undefined (reading 'username')
+20240819	23:08:55	77e24a46-78b1-4e61-96e3-61fb77e1a16c	TypeError	Cannot read properties of undefined (reading 'username')
+20240819	23:08:19	a97b4172-9e31-4e8d-a812-eff1cc6aecab	TypeError	Cannot read properties of undefined (reading 'username')
+20240820	15:08:31	0d749cff-d354-4216-862c-01ced854f39a	ReferenceError	rolesArry is not defined
+20240820	16:08:29	7208bcac-e92e-4c02-929d-8efd82207b37	Error	Cannot set headers after they are sent to the client
+20240820	21:08:27	3736378d-a90a-43ba-b0bb-621ded2f20cb	SyntaxError	Unexpected token c in JSON at position 24
+20240820	21:08:56	3a7db7f1-21ce-47bf-9330-057eb0ae2f6c	SyntaxError	Unexpected token c in JSON at position 25
+20240820	21:08:31	e3fd43d2-4ffc-4c49-a059-9f730d6d5893	SyntaxError	Unexpected token c in JSON at position 26
+20240820	21:08:00	76b461ee-ce87-4f66-9487-7452962097b7	SyntaxError	Unexpected token c in JSON at position 27
